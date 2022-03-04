@@ -301,3 +301,4 @@ document.getElementById('txtTuKhoa').addEventListener('keyup', function(){
     renderTablesSinhVien(mangSinhVienTimKiem);
   
 })
+console.log('git');
